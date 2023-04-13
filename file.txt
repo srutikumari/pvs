@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 72FB-8702
+
+ Directory of C:\Users\Student\Desktop\pvs
+
+13-04-2023  10:53    <DIR>          .
+13-04-2023  10:53    <DIR>          ..
+13-04-2023  10:53                 0 file.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  122,410,967,040 bytes free
